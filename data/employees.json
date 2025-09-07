@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "age": 28,
+    "department": "Engineering",
+    "position": "Senior Developer",
+    "salary": 95000
+  },
+  {
+    "id": 2,
+    "name": "Bob Smith",
+    "email": "bob@example.com",
+    "age": 32,
+    "department": "Engineering",
+    "position": "Lead Developer",
+    "salary": 110000
+  },
+  {
+    "id": 3,
+    "name": "Carol Davis",
+    "email": "carol@example.com",
+    "age": 26,
+    "department": "Design",
+    "position": "UX Designer",
+    "salary": 75000
+  },
+  {
+    "id": 4,
+    "name": "David Wilson",
+    "email": "david@example.com",
+    "age": 35,
+    "department": "Engineering",
+    "position": "Backend Developer",
+    "salary": 88000
+  },
+  {
+    "id": 5,
+    "name": "Emily Brown",
+    "email": "emily@example.com",
+    "age": 29,
+    "department": "Product",
+    "position": "Product Manager",
+    "salary": 105000
+  }
+]
