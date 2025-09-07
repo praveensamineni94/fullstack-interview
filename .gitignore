@@ -43,8 +43,7 @@ pids
 *.seed
 *.pid.lock
 
-# IDE
-.vscode/
+# IDE - allow .vscode settings for consistent development
 .idea/
 
 # Temporary files

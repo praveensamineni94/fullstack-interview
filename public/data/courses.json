@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Introduction to React",
+    "category": "Frontend",
+    "description": "Learn the basics of React components, state, and props",
+    "duration": "2 hours",
+    "difficulty": "Beginner",
+    "instructor": "Sarah Johnson"
+  },
+  {
+    "id": 2,
+    "title": "Advanced Node.js",
+    "category": "Backend",
+    "description": "Deep dive into Node.js performance optimization and scalability",
+    "duration": "3 hours",
+    "difficulty": "Advanced",
+    "instructor": "Mike Chen"
+  },
+  {
+    "id": 3,
+    "title": "Database Design with PostgreSQL",
+    "category": "Database",
+    "description": "Learn to design efficient database schemas and optimize queries",
+    "duration": "2.5 hours",
+    "difficulty": "Intermediate",
+    "instructor": "Lisa Rodriguez"
+  },
+  {
+    "id": 4,
+    "title": "TypeScript Fundamentals",
+    "category": "Frontend",
+    "description": "Type-safe JavaScript development with TypeScript",
+    "duration": "1.5 hours",
+    "difficulty": "Beginner",
+    "instructor": "Alex Thompson"
+  },
+  {
+    "id": 5,
+    "title": "REST API Development",
+    "category": "Backend",
+    "description": "Build robust REST APIs with Express.js and best practices",
+    "duration": "3 hours",
+    "difficulty": "Intermediate",
+    "instructor": "David Park"
+  },
+  {
+    "id": 6,
+    "title": "React Hooks Deep Dive",
+    "category": "Frontend",
+    "description": "Master useState, useEffect, and custom hooks",
+    "duration": "2 hours",
+    "difficulty": "Intermediate",
+    "instructor": "Emma Wilson"
+  },
+  {
+    "id": 7,
+    "title": "Docker for Developers",
+    "category": "DevOps",
+    "description": "Containerize your applications with Docker",
+    "duration": "2.5 hours",
+    "difficulty": "Intermediate",
+    "instructor": "Ryan Kim"
+  },
+  {
+    "id": 8,
+    "title": "Next.js App Router",
+    "category": "Frontend",
+    "description": "Build modern web applications with Next.js 13+ App Router",
+    "duration": "2.5 hours",
+    "difficulty": "Intermediate",
+    "instructor": "Jessica Lee"
+  }
+]
